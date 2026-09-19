@@ -16,22 +16,4 @@ SQL Tasks
 
 
 
-Day 2 Coding Challenge:  
 
-Household Energy Consumption Analysis 
-
-Scenario :
-A city wants to understand household energy usage patterns to design subsidy schemes for 
-energy efficiency. Your task is to analyze household energy data and provide actionable insights. 
-
-
-Task 
-1. Analyze energy consumption patterns across households. 
-2. Identify which types of households consume the most energy, based on family size, 
-appliance count, or income level. 
-3. Suggest energy-saving measures for high-energy-consuming households. 
-4. Visualize your insights using charts or dashboards. 
-Deliverables 
-• Excel workbook showing analysis. 
-• Summary of findings and recommendations for energy-saving measures. 
-• Charts or dashboards illustrating consumption patterns. 
